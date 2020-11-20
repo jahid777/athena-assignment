@@ -1,0 +1,23 @@
+.getYourDesign-sec {
+  background: #f4feff;
+  padding-bottom: 50px;
+  overflow: hidden;
+}
+.inputWrapper {
+  text-align: center;
+}
+.mailInput {
+  background: #eeeeee;
+  border: none;
+  outline: none;
+  padding: 13px 10px;
+  width: 60%;
+}
+
+.mailBtn {
+  border: 5px solid #eeeeee;
+  outline: none;
+  color: #fff;
+  padding: 8px 15px;
+  background: linear-gradient(60deg, #1fdeb0ff, #03a4f4ff);
+}
